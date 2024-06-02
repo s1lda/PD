@@ -1,0 +1,6 @@
+numpy
+streamlit
+networkx
+matplotlib
+seaborn
+time
